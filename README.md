@@ -14,6 +14,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
+### `npm run server`
+
+Runs the server where the information and tasks are being stored.
+
+***Note***: *npm start* and *npm run server* must be running simultaneously in 2 different terminals for the app to work.
+
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.\
